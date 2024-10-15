@@ -1,4 +1,4 @@
-*npm installation
+***npm installation***
 
 --npm init -y
 --npm i express
@@ -6,14 +6,20 @@
 --npm i nodemon
 
 
----Mango DB installation in PC---
+***Mango DB installation in PC***
 
 **First step ,Developer can install the current version of Mango data base,
 ---Create the new database named as "mern-app".
 ---After that developer can scripting the codes which is mentioned below
 --Then complete those scripting codes, To create the "todos" folder inside that "mern-app"
 
-**Create the separate file for backend mongoose DB and frontend to render the app
+***POST MAN installtion in pc****
+	--Aftet the completing mogoDB scripting codings,
+ 	--You need to install POSTMAN for calling the CRUD opertion through (POST,GET,PUT,DELETE)
+  	--Instead of this you can use **Thunder client**,These package can inbuiltly provided in VS-code extension.
+
+
+**Create the separate file for backend mongoose DB and frontend to render the app***
 
 **for back end file
 	--server.js
